@@ -1,0 +1,7 @@
+"builds": [
+  {
+    "src": "app.py",
+    "dest": "/",
+    "command": "python app.py"
+  }
+]
