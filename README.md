@@ -112,4 +112,3 @@ python3 Text-Summarizer.py
 - Audio feature will be added soon, so that you can listen the summary too if you want.
 
 
-## Dev :- Prakash Gupta
